@@ -1,7 +1,7 @@
 import cv2 as cv
 
 # img = "Cars6.png"
-vid = cv.VideoCapture('video6.mp4')
+vid = cv.VideoCapture('video3.mp4')
 # key = cv.waitKey(1)
 trainedCarFile = "car_detector.xml"
 
